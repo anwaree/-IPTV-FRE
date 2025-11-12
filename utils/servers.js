@@ -2,7 +2,7 @@ function getServersList() {
   return [
     {
       name: 'سيرفر IPTV 1',
-      url: 'http://example1.com:8080/playlist.m3u8'
+      url: 'https://godbay56.blogspot.com/p/iptv-1.html'
     },
     {
       name: 'سيرفر IPTV 2',
